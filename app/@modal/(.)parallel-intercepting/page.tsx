@@ -18,7 +18,7 @@ export default async function Page() {
 
       <h2 className="text-red-400 mt-4">Issues</h2>
       <p>
-        - RevalidatePath() passes the prop (see client console), but component doesn't rerender.
+        - RevalidatePath() passes the prop (see client console), but component does not rerender.
       </p>
     </Modal>
   )

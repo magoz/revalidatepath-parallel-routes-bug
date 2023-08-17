@@ -21,7 +21,7 @@ export default async function Page() {
       <p>- RevalidatePath() only works as expexted on hard navigation.</p>
       <p>
         - On soft navigation, RevalidatePath() passes the prop (see client console), but component
-        doesn't rerender.
+        does not rerender.
       </p>
     </Modal>
   )
